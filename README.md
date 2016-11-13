@@ -43,6 +43,6 @@ You should create one R script called **run_analysis.R** that does the following
 ## How to create the tidy data set
 
 1. Clone this repository: `git clone git@github.com:amirkhalid/Getting-and-Cleaning-Data.git`
-2. Open a R console and set the working directory to the repository root (use setwd())
+2. Open a R console and set the working directory to the repository root (use setwd()) - ammend 'set working directory inside `run_analysis.R` script
 3. Source run_analisys.R script (it requires the plyr package): `source('run_analysis.R')`
 4. In the repository root directory you find 2 files `Tidy.txt` and `Tidy.csv` with the tidy data set.
